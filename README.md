@@ -1,4 +1,4 @@
-# socialnetworkbackend — Стелар API
+# socialnetworkbackendd — Стелар API
 
 Бэкенд космической социальной сети **Стелар** на NestJS + Prisma + PostgreSQL.
 
@@ -13,8 +13,8 @@
 ## Быстрый старт (локально)
 
 ```bash
-git clone https://github.com/CrutoiChell/socialnetworkbackend.git
-cd socialnetworkbackend
+git clone https://github.com/CrutoiChell/socialnetworkbackendd.git
+cd socialnetworkbackendd
 
 # 1. Установить зависимости
 npm install
